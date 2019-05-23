@@ -1,0 +1,10 @@
+D:\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\bin\MyFirstWebpage.dll
+D:\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\bin\MyFirstWebpage.pdb
+D:\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.csprojResolveAssemblyReference.cache
+D:\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.dll
+D:\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.pdb
+E:\ASP.NET C#\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\bin\MyFirstWebpage.dll
+E:\ASP.NET C#\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\bin\MyFirstWebpage.pdb
+E:\ASP.NET C#\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.csprojResolveAssemblyReference.cache
+E:\ASP.NET C#\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.dll
+E:\ASP.NET C#\ASP.NET C# Web\MyFirstWebpage\MyFirstWebpage\obj\Debug\MyFirstWebpage.pdb
