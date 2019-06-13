@@ -47,8 +47,8 @@
             <aside id="Sidebar">
                 Thay đổi giao diện: <br />
                 <asp:DropDownList ID="ThemeList" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ThemeList_SelectedIndexChanged1">
-                    <asp:ListItem>Monochrome </asp:ListItem>
-                    <asp:ListItem>DarkGrey</asp:ListItem>
+                    <asp:ListItem>Trang1 </asp:ListItem>
+                    <asp:ListItem>Trang2</asp:ListItem>
                 </asp:DropDownList>
                 
                 <br />
